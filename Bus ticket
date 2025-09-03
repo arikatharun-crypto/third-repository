@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RTC Bus Ticket</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f7f7f7;
+            padding: 20px;
+        }
+        .ticket {
+            width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #ffffff;
+            border: 2px dashed #333;
+            border-radius: 10px;
+        }
+        .ticket h2 {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .ticket .logo {
+            text-align: center;
+            font-size: 24px;
+            font-weigh
